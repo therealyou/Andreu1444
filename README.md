@@ -1,6 +1,6 @@
 # Portfolio one page template - ARCHIVED
 
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
+Flat and responsive website template, designed and coded by [Andrey Barainkhin](https://github.com/orlovmax).
 
 Demo: [http://website-templates.github.io/portfolio_one-page-template](http://website-templates.github.io/portfolio_one-page-template/)
 
