@@ -1,0 +1,23 @@
+<ul>
+  <li>
+    <a href="http://www.consultant.ru/document/cons_doc_LAW_9959/"> Конвенция о правах ребёнка (ООН) </a></li>
+  <li>
+    <a href="http://www.un.org/ru/documents/decl_conv/declarations/childdec"> Декларация о Правах Ребёнка </a></li>
+  <li>
+    <a href="http://www.consultant.ru/document/cons_doc_LAW_28399/"> Конституция Российской Федерации </a></li>
+  <li>
+    <a href="http://www.consultant.ru/document/cons_doc_LAW_140174/"> Закон об образовании в РФ №273-ФЗ от 29.12.2012 г. </a></li>
+  <li>
+    <a href="http://www.consultant.ru/law/hotdocs/43281.html/"> Стратегия развития воспитания в Российской Федерации до 2025 года </a></li>
+  <li>
+    <a href="http://www.consultant.ru/law/hotdocs/30085.html/"> Профессиональный стандарт "Педагог" </a></li>
+  <li>
+    <a href="http://docs.cntd.ru/document/902256369"> СанПин 2.4.2.2821-10(с изменениями от 24.11.2015 г.) </a></li>
+  <li>
+    <a href="http://www.consultant.ru/document/cons_doc_LAW_108808/"> ФЗ РФ " О защите детей от информации, причиняющей вред их здоровью и развитию" </a></li>
+  <li>
+    <a href="https://минобрнауки.рф/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/922"> ФГОС начального общего образования </a></li>
+</ul>
+
+
+
